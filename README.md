@@ -3,8 +3,8 @@
 </span>
 
 - 👋 Hi, I’m @NotOgata
-- 👀 I’m interested in Python, Java, C#, and C++
-- 🌱 I’m currently learning Python, C#, and C++
+- 👀 I’m interested in C++, Python, Java, and C#
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on Valorant stuff
 - 📫 How to reach me Discord NotOgata#0001
 
