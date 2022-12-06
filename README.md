@@ -6,7 +6,6 @@
 - 👀 I’m interested in C++, Python, Java, and C#
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on Valorant stuff
-- 📫 How to reach me Discord MartinLoner#6969
 
 <!---
 NotOgata/NotOgata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +19,12 @@ You can click the Preview link to take a look at your changes.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.io/NotOgata">
+        <img title="Fnoberz server discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-4/811840938724163584.png"/>
+    </a>
+</p>
+
+</p>
