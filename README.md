@@ -6,7 +6,7 @@
 - 👀 I’m interested in C++, Python, Java, and C#
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on Valorant stuff
-- 📫 How to reach me Discord NotOgata#0001
+- 📫 How to reach me Discord MartinLoner#6969
 
 <!---
 NotOgata/NotOgata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
