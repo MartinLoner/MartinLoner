@@ -20,6 +20,10 @@ You can click the Preview link to take a look at your changes.
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+<p align="center">
+    <a href="https://discord.com/users/811840938724163584">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-MartinLoner%236969-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>
+
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.io/NotOgata">
