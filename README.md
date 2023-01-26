@@ -2,7 +2,7 @@
   <a href="https://buymeacoffee.com/NotOgata" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
 </span>
 
-- 👋 Hi, I’m @NotOgata
+- 👋 Hi, I’m @MartinLoner
 - 👀 I’m interested in C++, Python, Java, and C#
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on Valorant stuff
