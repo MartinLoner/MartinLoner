@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://discord.com/users/811840938724163584">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-MartinLoner%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-@MartinWon-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.io/MartinLoner">
+    <a href="https://discord.io/MartinWon">
         <img title="Martin's discord server" alt="Martin's discord" src="https://discord.c99.nl/widget/theme-4/811840938724163584.png"/>
     </a>
 </p>
